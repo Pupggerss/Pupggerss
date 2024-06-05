@@ -10,7 +10,7 @@
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-- Getting better at pmmp :sob:
+- :sob: Getting better at pmmp
 
  ## 🏆 Achievements
 
