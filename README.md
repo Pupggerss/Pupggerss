@@ -6,16 +6,4 @@
 
 - 🔭 I'm currently learning Python and HTML, I also make PocketMine-MP plugins in PHP.
 - 📝 I write random fictional stories.
-
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-
- ## 🏆 Achievements
-
-- 🌟 None (yet 😉)
-
-
-## 📬 Get in Touch
-
-- Direct Message me on discord 
+- Thats really it 🧍‍♂️
