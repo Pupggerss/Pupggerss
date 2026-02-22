@@ -7,8 +7,3 @@
 - 🔭 I'm currently learning Python and HTML, I also make PocketMine-MP plugins in PHP.
 - 📝 I write random fictional stories.
 - Thats really it 🧍‍♂️
-
-
-
-
-"And then there was @Pup —unapologetically himself, vibrant, and fearless. A gay Black furry whose identity stood as a banner of authenticity in a scene often cloaked in anonymity." - Trix
